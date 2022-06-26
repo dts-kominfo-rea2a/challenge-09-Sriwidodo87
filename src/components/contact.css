@@ -1,0 +1,34 @@
+/* .Contact{
+    text-align: center;
+    background-color: aqua;
+    position: fixed center ;
+} */
+
+
+.contact{
+    background-color:antiquewhite;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 35%;
+    height: 75%;
+    border-radius: 10px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    margin: 20px 415px; 
+    text-align: justify;
+    position:relative;
+}
+
+.container {
+    padding: 0 px;
+    
+}
+img {
+    border-radius: 50%;
+    width: 30%;
+    height: 30%;
+    padding: 5px;
+}
